@@ -7,7 +7,7 @@ Now I decided to change my profession and become a front-end developer.
 
 My stack:
 - HTML
-- CSS (Sass, BEM, Bootstrap)
+- CSS (Sass)
 - JavaScript
 - React / Redux
 - Figma
