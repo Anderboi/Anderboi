@@ -9,8 +9,9 @@ My stack:
 - HTML
 - CSS (Sass)
 - JavaScript
+- TypeScript
 - React / Redux
-- Figma
+- Figma / Photoshop
 - Git
 
 
