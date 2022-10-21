@@ -5,7 +5,7 @@
 For a long time I was an architect, but I always wanted to code.
 Now I decided to change my profession and become a front-end developer.
 
-##My stack##
+My stack
 - HTML
 - CSS (SCSS)
 - JavaScript
@@ -14,7 +14,7 @@ Now I decided to change my profession and become a front-end developer.
 - Figma / Photoshop
 - Git
 
-##LANGUAGES##
+LANGUAGES
 English - is in the range of C1 ADVANCED to C2 PROFICIENT, according to the guidelines set by the Common European Framework of Reference (CEFR).
 
 Russian - Native
