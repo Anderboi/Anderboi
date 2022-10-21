@@ -15,11 +15,9 @@ My stack
 - Git
 
 LANGUAGES
-English - is in the range of C1 ADVANCED to C2 PROFICIENT, according to the guidelines set by the Common European Framework of Reference (CEFR).
-
-Russian - Native
-
-Belarusian - Intermediate
+- English - is in the range of C1 ADVANCED to C2 PROFICIENT, according to the guidelines set by the Common European Framework of Reference (CEFR).
+- Russian - Native
+- Belarusian - Intermediate
 
 
 <!---
