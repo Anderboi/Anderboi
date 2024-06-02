@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Andrei Upalauneu
-- 🌱 I’m currently learning React and a TypeScript
-- 📫 How to reach me: email - upolovnew@gmail.com
+- 👋 Hi, I’m Andrei Upalauneu.
+- 🌱 I’m currently learning FrontEnd development.
+- 📫 How to reach me: email - upolovnew@gmail.com.
 
 For a long time I was an architect, but I always wanted to code.
 Now I decided to change my profession and become a front-end developer.
@@ -8,9 +8,9 @@ Now I decided to change my profession and become a front-end developer.
 My stack
 - HTML
 - CSS (SCSS)
-- JavaScript
-- TypeScript
-- React / Redux
+- JS / TS
+- Next js
+- Tailwind
 - Figma / Photoshop
 - Git
 
